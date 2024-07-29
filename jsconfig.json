@@ -1,7 +1,19 @@
+// {
+//   "compilerOptions": {
+//     "paths": {
+//       "@/*": ["./*"]
+//     }
+//   }
+// }
+
 {
   "compilerOptions": {
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "types": ["d3-scale"]
   }
 }

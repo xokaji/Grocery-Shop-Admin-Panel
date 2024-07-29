@@ -1,0 +1,47 @@
+.container {
+  background-color: var(--bgSoft);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.form input,
+.form textarea,
+.form select {
+  padding: 5px; /* Match the button padding */
+  background-color: var(--bg);
+  color: var(--text);
+  border: 2px solid #2e374a;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  width: 20%; /* Match the button width */
+  height: 70px; /* Set height to auto to avoid fixed height issues */
+}
+
+.form select {
+  font-size: medium;
+}
+
+.form button {
+  font-size: medium;
+  height: 70px; /* Set height to auto */
+  width: 20%;
+  padding: 2px;
+  background-color: teal;
+  color: var(--text);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
