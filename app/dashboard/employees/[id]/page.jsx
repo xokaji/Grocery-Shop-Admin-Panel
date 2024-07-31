@@ -1,4 +1,4 @@
-import styles from "@/app/ui/dashboard/employees/singleEmployee/singleEmployee.module.css"
+// import styles from "@/app/ui/dashboard/employees/singleEmployee/singleEmployee.module.css"
 import Image from "next/image"
 
 const SingleEmployee = () =>{
