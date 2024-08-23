@@ -4,6 +4,7 @@ Many more features are included to this project. They are Employee management, R
 
 ## ☀️ Features
 * Admin can control the whole the application through the Admin Panel.
+* Admin can able to create his own Account and Login.
 * Employee Management - Add Employee, Edit Employee, Select Employee Role
 * Supllier Management - Add Supplier, Edit Supplier
 * Product Management - Add Product, Edit Product, Has unique code for the product
