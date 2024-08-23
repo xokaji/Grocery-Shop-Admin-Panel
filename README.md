@@ -1,6 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛍️ Admin Panel for Grocery App 🛍️
+This Admin Panel built for a Flutter based Grocery Apllication. This is built in "NextJS" Framework and "FireBase". 
+Many more features are included to this project. They are Employee management, Reports management, Supplier management and Product management.
 
-## Getting Started
+## ☀️ Features
+* Admin can control the whole the application through the Admin Panel.
+* Employee Management - Add Employee, Edit Employee, Select Employee Role
+* Supllier Management - Add Supplier, Edit Supplier
+* Product Management - Add Product, Edit Product, Has unique code for the product
+* Reports Management - Sales, Salary, Supplier and Stock reports.
+* Admin shall be able to see the all analytics through the Dashboard.
+
+## 🤖 Technology Used
+* NextJS
+* Material UIs
+* FireBase
+
+### Admin SignUp Page
+<img width="1792" alt="Screenshot 2024-08-23 at 00 56 33" src="https://github.com/user-attachments/assets/2e833108-8f45-4737-bab3-69da60cf942f">
+
+### Admin Login Page
+<img width="1792" alt="Screenshot 2024-08-23 at 00 59 20" src="https://github.com/user-attachments/assets/1125ec81-42df-49ec-b5ef-ccb528193453">
+
+### Admin Dashboard
+<img width="1792" alt="Screenshot 2024-08-23 at 01 00 03" src="https://github.com/user-attachments/assets/6618f48a-7ffe-481e-b220-5f887697335f">
+
+### Employee Page
+<img width="1792" alt="Screenshot 2024-08-23 at 01 00 18" src="https://github.com/user-attachments/assets/b2159f35-c9a1-47eb-a9a7-2e8d97d53ce7">
+
+### Add Employee Page
+<img width="1792" alt="Screenshot 2024-08-23 at 01 00 39" src="https://github.com/user-attachments/assets/a9b00ce8-d1d1-4f66-9dd3-e163652b6f75">
+
+### Product Page
+<img width="1792" alt="Screenshot 2024-08-23 at 01 01 16" src="https://github.com/user-attachments/assets/06bd938c-c545-4e63-a602-b3f7b9aedc8a">
+
+### Stock Reports Page
+<img width="1792" alt="Screenshot 2024-08-23 at 01 01 59" src="https://github.com/user-attachments/assets/48383365-c929-491f-acee-c5e9737a74ba">
+
+#### IF YOU HAVE ISSUIE ON MY PROJECT, PLEAE REACH ME ASAP. HAPPY CODING! 🖥️
+
 
 First, run the development server:
 
@@ -16,22 +53,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Admin-Panel
